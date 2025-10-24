@@ -4,33 +4,37 @@
   Junior Backend Developer (.NET / ASP.NET Core)<br/>
   📍 Berlin, Germany
 </p>
+<br>
+
+<p align="left">German:<br>
+Junior Backend Entwickler (C#, ASP.NET Core) mit Fokus auf saubere, skalierbare REST-APIs und Architektur sowie zuverlässiger Teamarbeit und schneller Lernfähigkeit.
+
+
+English:<br>
+Junior Backend Developer (C#, ASP.NET Core) focused on clean, scalable REST APIs and architecture, reliable teamwork and fast learning.
+</p>
 
 ---
-
-## 🛠️ Tech Stack
+<br>
+<h2>🛠️ Tech Stack</h2>
 
 <div align="left">
 
 ### Backend & Language
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".net" width="45" height="45"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="aspnetcore" width="45" height="45"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45"/>
+<img src="https://ih1.redbubble.net/image.366684642.5673/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.u2.webp" alt="aspnetcore" width="45" height="45"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCDx1Gq9OhPHbGCw4K83O6b5jhBHRXmYLeMQ&s" alt="efcore" width="45" height="45"/>
 
 ### Data & Storage
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sqlserver" width="45" height="45"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAvNgEEmakzjLDLObc0AUhno_fBe82ygFZIw&s" alt="sqlserver" width="45" height="45"/>
 
 ### Auth & Security
-<img src="https://www.svgrepo.com/show/353478/oauth.svg" alt="oauth" width="45" height="45"/>
-<img src="https://www.svgrepo.com/show/306624/json-web-token.svg" alt="jwt" width="45" height="45"/>
-
-### Architecture & Patterns
-<img src="https://www.svgrepo.com/show/373780/layers.svg" alt="clean-architecture" width="45" height="45"/>
-<img src="https://www.svgrepo.com/show/375567/flow-chart.svg" alt="repository-pattern" width="45" height="45"/>
-<img src="https://www.svgrepo.com/show/354051/dependencyinjection.svg" alt="dependency-injection" width="45" height="45"/>
+<img src="https://play-lh.googleusercontent.com/3C-hB-KWoyWzZjUnRsXUPu-bqB3HUHARMLjUe9OmPoHa6dQdtJNW30VrvwQ1m7Pln3A" alt="jwt" width="45" height="45"/>
 
 ### Tooling & API
-<img src="https://www.svgrepo.com/show/353724/swagger.svg" alt="swagger" width="45" height="45"/>
-<img src="https://www.svgrepo.com/show/349375/rest-api.svg" alt="rest" width="45" height="45"/>
+<img src="https://cdn.worldvectorlogo.com/logos/swaggerhub-1.svg" alt="swagger" width="45" height="45"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmJoxiAXVIxedd5WnxL3yepJpACK2lmCSl9w&s" alt="rest" width="45" height="45"/>
 
 </div>
 
@@ -43,15 +47,16 @@
 > Der Marketplace bietet eine modulare Architektur mit einer getrennten Authentifizierungs-API (für Benutzerregistrierung, Login, Rollen-/Rechtemanagement) sowie einer Business-API zur Verwaltung von Produkten, Bestellungen und Benutzerkonten.  
 > Das System verwendet JWT-Token für die sichere Kommunikation zwischen dem Nutzer und den APIs.
 
-**Tech:** ASP.NET Core • EF Core • SQL Server • JWT • OAuth2 • Swagger
+**Tech:** ASP.NET Core • EF Core • SQL Server • JWT • OAuth2 (Google Auth) • Swagger
 
+Github links:
 <div>
   <a href="https://github.com/vladnediv/MarketplaceAuthAPI">
-    <img src="https://www.svgrepo.com/show/341847/github.svg" width="32" alt="Auth Repo"/>
+    <img src="https://static.vecteezy.com/system/resources/previews/046/437/248/non_2x/github-logo-transparent-background-free-png.png" width="65" height="65" alt="Auth Repo"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/vladnediv/MarketplaceCoreAPI">
-    <img src="https://www.svgrepo.com/show/341847/github.svg" width="32" alt="Core Repo"/>
+    <img src="https://static.vecteezy.com/system/resources/previews/046/437/248/non_2x/github-logo-transparent-background-free-png.png" width="65" height="65" alt="Core Repo"/>
   </a>
 </div>
 
@@ -65,6 +70,6 @@
   </a>
   &nbsp;&nbsp;
   <a href="mailto:volodymyr.nedividov@gmail.com">
-    <img src="https://www.svgrepo.com/show/452213/email.svg" width="40" alt="Email"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/6711/6711567.png" width="40" alt="Email"/>
   </a>
 </div>
