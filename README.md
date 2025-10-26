@@ -44,8 +44,13 @@ Junior Backend Developer (C#, ASP.NET Core) focused on clean, scalable REST APIs
 
 ### PickPlace Marketplace (Backend)
 
-> Der Marketplace bietet eine modulare Architektur mit einer getrennten Authentifizierungs-API (für Benutzerregistrierung, Login, Rollen-/Rechtemanagement) sowie einer Business-API zur Verwaltung von Produkten, Bestellungen und Benutzerkonten.  
-> Das System verwendet JWT-Token für die sichere Kommunikation zwischen dem Nutzer und den APIs.
+German:
+Modularer Marketplace mit separater Auth- und Business-API für Benutzer-, Produkt- und Bestellverwaltung.
+Sichere Kommunikation über JWT / OAuth2 und strukturierte Architektur nach Best Practices.
+
+English:
+Modular marketplace with separate Auth and Business APIs for user, product, and order management.
+Secure communication via JWT/OAuth2 and a structured architecture following best practices.
 
 **Tech:** ASP.NET Core • EF Core • SQL Server • JWT • OAuth2 (Google Auth) • Swagger
 
