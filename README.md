@@ -54,6 +54,8 @@ Secure communication via JWT/OAuth2 and a structured architecture following best
 
 **Tech:** ASP.NET Core • EF Core • SQL Server • JWT • OAuth2 (Google Auth) • Swagger
 
+📁 Portfolio: <a href="https://github.com/vladnediv/portfolio">Click here</a>
+
 Github links:
 <div>
   <a href="https://github.com/vladnediv/MarketplaceAuthAPI">
