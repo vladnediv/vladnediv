@@ -3,6 +3,7 @@
 
 I build reliable and maintainable backend systems using the ASP.NET Core Framework with focus on clean architecture, long-term scalability, and solutions that are easy to extend and support.
 
+- <a href="https://github.com/vladnediv/portfolio">💼 Portfolio</a>
 
 - **Languages**: C#
 
@@ -12,7 +13,6 @@ I build reliable and maintainable backend systems using the ASP.NET Core Framewo
 
 - **Databases**: MySQL, Redis, MS SQL Server
 
-- <a href="https://github.com/vladnediv/portfolio">💼 Portfolio</a>
 <br>
 
 
