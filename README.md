@@ -1,6 +1,8 @@
 👋 Hi, I'm **Volodymyr Nedividov, a Software Engineer who specializes in Backend Development**
-<br>
-📍 Berlin, Germany 
+
+
+I build reliable and maintainable backend systems using the ASP.NET Core Framework with focus on clean architecture, long-term scalability, and solutions that are easy to extend and support.
+
 
 - **Languages**: C#
 
