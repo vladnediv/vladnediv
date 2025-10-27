@@ -6,7 +6,7 @@ I build reliable and maintainable backend systems using the ASP.NET Core Framewo
 
 - **Languages**: C#
 
-- **Frameworks**: ASP.NET Core
+- **Frameworks**: ASP.NET Core, Entity Framework Core
 
 - **Cloud and DevOps**: Docker, Git, Azure
 
