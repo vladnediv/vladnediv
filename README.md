@@ -1,4 +1,6 @@
 👋 Hi, I'm **Volodymyr Nedividov, a Software Engineer who specializes in Backend Development**
+<br>
+📍 Berlin, Germany 
 
 - **Languages**: C#
 
