@@ -19,4 +19,4 @@ I build reliable and maintainable backend systems using the ASP.NET Core Framewo
 
 
 <!--[![GitHub Streak](https://streak-stats.demolab.com/?user=vladnediv&theme=highcontrast)](https://git.io/streak-stats)-->
-<!--[![Volodymyr Nedividov profile views](https://u8views.com/api/v1/github/profiles/81874105/views/day-week-month-total-count.svg)](https://u8views.com/github/vladnediv)-->
+[![Volodymyr Nedividov profile views](https://u8views.com/api/v1/github/profiles/81874105/views/day-week-month-total-count.svg)](https://u8views.com/github/vladnediv)
