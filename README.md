@@ -1,7 +1,7 @@
-### 👋 Hi, I'm Volodymyr Nedividov, a Software Engineer who specializes in <code>Backend Development</code>
+### 👋 Hi, I'm Volodymyr Nedividov, a Software Engineer who specializes in <code>Web Development</code>
 
 
-I build reliable and maintainable backend systems using the ASP.NET Core Framework with focus on clean architecture, long-term scalability, and solutions that are easy to extend and support.
+I build reliable and maintainable backend systems and web-apps using the ASP.NET Core Framework with focus on clean architecture, long-term scalability, and solutions that are easy to extend and support.
 
 <h4><a href="https://github.com/vladnediv/portfolio">💼 My Portfolio</a></h4>
 
@@ -9,7 +9,7 @@ I build reliable and maintainable backend systems using the ASP.NET Core Framewo
 
 - **Languages**: C#
 
-- **Frameworks**: ASP.NET Core, Entity Framework Core
+- **Frameworks**: ASP.NET Core, Entity Framework Core, Blazor
 
 - **Cloud and DevOps**: Docker, Git, Azure
 
